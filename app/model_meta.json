@@ -1,0 +1,27 @@
+{
+  "features": [
+    "sqft_living",
+    "sqft_lot",
+    "bedrooms",
+    "bathrooms",
+    "floors",
+    "waterfront",
+    "view",
+    "condition",
+    "grade",
+    "sqft_above",
+    "sqft_basement",
+    "house_age",
+    "renovated",
+    "lat",
+    "long",
+    "sqft_living15",
+    "sqft_lot15",
+    "zip_price_level"
+  ],
+  "target": "log1p(price)",
+  "model": "XGBoost",
+  "r2": 0.90841801255125,
+  "rmse_dollar": 118694.22517008042,
+  "global_zip_level": 13.04516768914702
+}
