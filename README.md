@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
+<p align="center">
+  <a href="https://house-price-prediction-bsu7kt2kje8hlcndt8m2tn.streamlit.app/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_Demo-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"></a>
+</p>
+
 <p align="center"><b>Best model — XGBoost · R² = 0.908 · RMSE ≈ $119k</b></p>
 
 <p align="center">
@@ -56,7 +60,7 @@ streamlit run app/app.py
 ```
 
 > Deploy it free on Streamlit Community Cloud — see [`STEPS.md`](STEPS.md). After deploying, drop the URL here:
-> **▶️ Live demo:** _add your `…streamlit.app` link_
+> **▶️ Live demo:** **https://house-price-prediction-bsu7kt2kje8hlcndt8m2tn.streamlit.app/**
 
 ## 🔑 What drives price?
 
